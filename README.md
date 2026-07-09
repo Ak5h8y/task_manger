@@ -51,11 +51,19 @@ task_manager/
    
 ## 📸 Screenshots
 
-Add screenshots of:
-- Login/Register Page
-- Admin Dashboard
-- User Dashboard
-- Task Management Page
+## 📸 Screenshots
+
+### Login Page
+![Login](Screenshot 2026-07-09 120225.png)
+
+### resister Dashboard
+![resister Dashboard](Screenshot 2026-07-09 120241.png)
+
+### admin Dashboard
+![Admin Dashboard](Screenshot 2026-07-09 120428.png)
+
+### usesr dashboard
+![User dashboard](Screenshot 2026-07-09 120454.png)
 
 ## 🎯 Future Improvements
 
