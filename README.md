@@ -54,16 +54,16 @@ task_manager/
 ## 📸 Screenshots
 
 ### Login Page
-![Login](Screenshot 2026-07-09 120225.png)
+![Login](login page.png)
 
-### resister Dashboard
-![resister Dashboard](Screenshot 2026-07-09 120241.png)
+### register Dashboard
+![register Dashboard](register page.png)
 
 ### admin Dashboard
-![Admin Dashboard](Screenshot 2026-07-09 120428.png)
+![Admin Dashboard](admin page.png)
 
-### usesr dashboard
-![User dashboard](Screenshot 2026-07-09 120454.png)
+### usesr Page
+![User Page](user page.png)
 
 ## 🎯 Future Improvements
 
