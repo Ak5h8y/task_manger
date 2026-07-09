@@ -51,19 +51,17 @@ task_manager/
    
 ## 📸 Screenshots
 
-## 📸 Screenshots
-
 ### Login Page
-![Login](login page.png)
+![Login Page](login-page.png)
 
-### register Dashboard
-![register Dashboard](register page.png)
+### Register Page
+![Register Page](register-page.png)
 
-### admin Dashboard
-![Admin Dashboard](admin page.png)
+### Admin Dashboard
+![Admin Dashboard](admin-page.png)
 
-### usesr Page
-![User Page](user page.png)
+### User Dashboard
+![User Dashboard](user-page.png)
 
 ## 🎯 Future Improvements
 
